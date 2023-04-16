@@ -1,13 +1,12 @@
 {
   "version": 2.0,
-  "questions": [
-    {
+  "questions": [{
       "question": "1. Agriculture drones generally have tank capacity of?",
       "answers": {
         "a": "10 Litres",
         "b": "15 Litres",
         "c": "50 Litres",
-        "d": "1 Liter"        
+        "d": "1 Liter"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +18,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Sprinkler system uses which type of motor?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Induction Motor",
+        "b": "BLDC Motor",
+        "c": "Diaphragm Motor",
+        "d": "Servo Motor"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +32,57 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. As per drone category of India , small category drones are allowed for agricultural purposes which have maximum weight allowance of?",
+      "answers": {
+        "a": "Upto 2Kg",
+        "b": "Upto 25Kg",
+        "c": "Upto 150Kg",
+        "d": "Above 150kg"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is the full form of GCS?",
+      "answers": {
+        "a": "Ground Control System",
+        "b": "Gravity Control System",
+        "c": "General Control System",
+        "d": "Global Control System"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Most stable and widely used type of rotorcraft category of drone in agriculture application is?",
+      "answers": {
+        "a": "Quadcopter type",
+        "b": "Hexacopter type",
+        "c": "Tricopter type",
+        "d": "Helicopter type"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
