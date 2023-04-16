@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Agriculture drones generally have tank capacity of?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "10 Litres",
+        "b": "15 Litres",
+        "c": "50 Litres",
+        "d": "1 Liter"        
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
