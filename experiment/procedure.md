@@ -1,7 +1,7 @@
 ### Procedure
 
 #### Click Here to Enter the Lab
-
+<!---
 ### Precautions
 
 #### 1. Always use protective gloves, Never touch pesticides with bare hands.
@@ -14,7 +14,7 @@
 #### 8. Do not make circuit changes or perform any wiring when power is on.
 #### 9. You must not fly your drone above people or in populous area like beach, park, events etc.
 #### 10. Know emergency exit routes.
-
+--->
 #### Drag the cap of pesticides and drop it in the box.
 #### Drag the cap of drone and drop it in the box.
 #### Drag the keep and drop it in the box.
