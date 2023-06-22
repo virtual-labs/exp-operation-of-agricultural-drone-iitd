@@ -1,7 +1,7 @@
 ### Procedure
 
 #### Click Here to Enter the Lab
-#### <img src="images/ent.png" style="height: 500px;">
+#### <img src="images/ent1.png" style="height: 500px;">
 
 #### Click the next button
 #### <img src="images/nex1.png" style="height: 500px;">
@@ -54,7 +54,7 @@
 #### <img src="images/nex3.png" style="height: 500px;">
 
 #### Click the ok button
-#### <img src="images/ok-1.png" style="height: 500px;">
+#### <img src="images/ok_1.png" style="height: 500px;">
 
 #### Drag Battery and put it in the drop here box.
 #### <img src="images/dra9.png" style="height: 500px;">
