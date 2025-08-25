@@ -1,13 +1,12 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+  "questions": [{
+      "question": "1. Generally how much voltage and rating batteries are used in agricultural drones?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "22.7V, 16000 mah",
+        "b": "11.1V, 5000 mah",
+        "c": "14.8V, 2000mah",
+        "d": "3.7V, 20000mah"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +18,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. In case of communication lost with pilot , what safety action need to be taken first?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Disarm",
+        "b": "Return to Launch",
+        "c": "Turn off transmitter",
+        "d": "Run towards drone"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +31,58 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Before powering up the drone you need to cross-check the.",
+      "answers": {
+        "a": "propeller orientation",
+        "b": "Battery",
+        "c": "Transmitter",
+        "d": "Tank"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. For safety purpose before filling the tank crosscheck.",
+      "answers": {
+        "a": "Drone is in disarm state",
+        "b": "Drone in arm state",
+        "c": "Motors are working",
+        "d": "N/A"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. At what conditions drone flights are recommended?",
+      "answers": {
+        "a": "Low temperature ranging from 5C to 30C.",
+        "b": "High wind velocity",
+        "c": "Rain",
+        "d": "Tornado"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
